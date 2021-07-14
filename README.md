@@ -1,9 +1,8 @@
 # node-windows
 
-![NPM version](https://img.shields.io/npm/v/node-windows?label=node-windows&logo=npm&style=for-the-badge)
+![NPM version](https://img.shields.io/npm/v/node-windows-cyrus?label=node-windows&logo=npm&style=for-the-badge)
 ![NGN Dependencies](https://david-dm.org/coreybutler/node-windows.svg?style=for-the-badge)
 
-[Tweet me (@goldglovecb)](http://twitter.com/goldglovecb) if you need me.
 
 ---
 
@@ -22,11 +21,9 @@
 
   This library can be used to install/start/stop/uninstall Node scripts as Windows background services for **production** environments. This is not a tool for developing applications, it is a tool for releasing them. 
 
-  See [node-mac](http://github.com/coreybutler/node-mac) and [node-linux](http://github.com/coreybutler/node-linux) if you need to support those operating systems.
-
 
 ## Overview
-
+This is a updated version of the node-windows by Corey Butler that address some of the recommended fixes by Snyk
 The following features are available in node-windows:
 
 - **Service Management**: Run Node.js scripts as native Windows services. Includes monitoring.
