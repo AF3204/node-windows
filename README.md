@@ -1,7 +1,7 @@
 # IMPORTANT TO NOTE:
   This is a updated version of the node-windows by Corey Butler that address some of the recommended fixes by Snyk.
   A project by both AF3204 and nhDuong.
-  
+
 
 # node-windows
 
@@ -41,7 +41,7 @@ The following features are available in node-windows:
 
 The recommended way to install node-windows is with npm, using the global flag:
 
-`npm install -g node-windows`
+`npm install -g node-windows-fdx`
 
 Then, in your project root, run:
 
