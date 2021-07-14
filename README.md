@@ -1,6 +1,6 @@
 # node-windows
 
-![NPM version](https://img.shields.io/npm/v/node-windows-dx?label=node-windows&logo=npm&style=for-the-badge)
+![NPM version](https://img.shields.io/npm/v/node-windows-fdx?label=node-windows&logo=npm&style=for-the-badge)
 ![NGN Dependencies](https://david-dm.org/AF3204/node-windows.svg?style=for-the-badge)
 
 

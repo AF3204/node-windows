@@ -1,5 +1,5 @@
 {
-  "name": "node-windows-dx",
+  "name": "node-windows-fdx",
   "version": "1.0.0",
   "description": "Support for Windows services, event logging, UAC, and several helper methods for interacting with the OS.",
   "keywords": [
