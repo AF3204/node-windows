@@ -1,6 +1,6 @@
 {
   "name": "node-windows-fdx",
-  "version": "1.0.124",
+  "version": "1.0.126",
   "description": "Support for Windows services, event logging, UAC, and several helper methods for interacting with the OS.",
   "keywords": [
     "ngn",
