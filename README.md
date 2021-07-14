@@ -1,7 +1,7 @@
 # node-windows
 
-![NPM version](https://img.shields.io/npm/v/node-windows-cyrus?label=node-windows&logo=npm&style=for-the-badge)
-![NGN Dependencies](https://david-dm.org/coreybutler/node-windows.svg?style=for-the-badge)
+![NPM version](https://img.shields.io/npm/v/node-windows-dx?label=node-windows&logo=npm&style=for-the-badge)
+![NGN Dependencies](https://david-dm.org/AF3204/node-windows.svg?style=for-the-badge)
 
 
 ---
@@ -24,6 +24,7 @@
 
 ## Overview
 This is a updated version of the node-windows by Corey Butler that address some of the recommended fixes by Snyk
+A project by both AF3204 and nhDuong
 The following features are available in node-windows:
 
 - **Service Management**: Run Node.js scripts as native Windows services. Includes monitoring.
