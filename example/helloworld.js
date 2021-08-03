@@ -5,7 +5,7 @@ var server = http.createServer(function (req, res) {
   res.end('Welcome to the world of possibilities\n');
 });
 
-server.listen(3000, '127.0.0.1', () => {
+server.listen(5051, '127.0.0.1', () => {
   console.log(`Server running at http://${hostname}:${port}/`);
 });
 
